@@ -14,7 +14,7 @@
 We specialize in web development, software engineering, DevOps engineering, data science and corporate training and workshops. 
 Our team of experts is dedicated to delivering the highest quality services that are tailored to meet the unique needs of each of our clients. 
 With our innovative solutions and commitment to excellence, we help our clients to achieve their goals and stay ahead of the competition.Y
-ou will love our service.Look no where.</h1>
+ou will love our service.Look no where than JOMACS IT SOLUTIONS INC.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
